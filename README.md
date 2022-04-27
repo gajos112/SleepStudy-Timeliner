@@ -16,10 +16,10 @@ It was tested on:
 Like it was said erlier, it is the GUI tool which looks like that:
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/0.png?raw=true)
 
-First you have to provide a path to the SleepStudy folder that you want to parse. If inside that foler there is a folder called ScreenOn, the files located there will be parsed as well. Then you also have to provide the path where you want to save the output (timeline in TLN format) and click "PARSE".
+First, you have to provide a path to the SleepStudy folder that you want to parse. If inside that folder there is a folder called ScreenOn, the files located there will be parsed as well. Then you also have to provide the path where you want to save the output (timeline in TLN format) and click "PARSE".
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/1.png?raw=true)
 
-Once evrything is completed, you qwill get a popup saying that parsing was completed:
+Once everything is completed, you will get a popup saying that parsing was completed:
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/2.png?raw=true)
 
 What is more, I also added a small log box which display all logs sent by the software.
