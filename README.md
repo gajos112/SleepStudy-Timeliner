@@ -12,9 +12,13 @@ It was tested on:
 - Windows 10.0.16299,
 
 # How does it work?
+
+Like it was saif erlier, it is the GUI tool, which looks like that:
+![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/0.png?raw=true)
+
 First you have to provide a path to the SleepStudy folder that you want to parse. If inside that foler there is a folder called ScreenOn, the files located there will be parsed as well. Then you also have to provide the path where you want to save the output (timeline in TLN format) and click "PARSE".
 
-![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/0.png?raw=true)
+
 
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/1.png?raw=true)
 
