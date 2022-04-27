@@ -23,8 +23,8 @@ First, you have to provide a path to the SleepStudy folder that you want to pars
 
 Once everything is completed, you will get a popup saying that parsing was completed:
 
-![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/2.png?raw=true)
+![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/3.png?raw=true)
 
 What is more, I also added a small log box which display all logs sent by the software.
 
-![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/3.png?raw=true)
+![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/2.png?raw=true)
