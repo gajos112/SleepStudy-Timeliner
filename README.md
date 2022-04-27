@@ -25,6 +25,6 @@ Once everything is completed, you will get a popup saying that parsing was compl
 
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/3.png?raw=true)
 
-What is more, I also added a small log box which display all logs sent by the software.
+What is more, I also added a small log box which displays all logs sent by the software.
 
 ![alt text](https://github.com/gajos112/SleepStudy-Timeliner/blob/main/images/2.png?raw=true)
